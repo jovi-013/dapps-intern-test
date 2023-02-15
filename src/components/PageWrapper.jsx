@@ -26,7 +26,6 @@ export default function PageWrapper(props) {
       <Pane className={classes.navbarContainer} background="blue300">
         <Pane>
           <Button is={Link} to="/" className={classes.navButton}>Home</Button>
-          <Button is={Link} to="/token" className={classes.navButton}>Token</Button>
         </Pane>
         <Pane>
           <Text background="white" padding="5px" borderRadius="5px">Please use MetaMask & Goerli Testnet</Text>
