@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dapps-intern-test/static/css/main.073c9b0a.css",
-    "main.js": "/dapps-intern-test/static/js/main.db02d796.js",
+    "main.css": "/dapps-intern-test/static/css/main.e6c13ad2.css",
+    "main.js": "/dapps-intern-test/static/js/main.39598992.js",
     "static/js/787.71c1b70a.chunk.js": "/dapps-intern-test/static/js/787.71c1b70a.chunk.js",
     "index.html": "/dapps-intern-test/index.html",
-    "main.073c9b0a.css.map": "/dapps-intern-test/static/css/main.073c9b0a.css.map",
-    "main.db02d796.js.map": "/dapps-intern-test/static/js/main.db02d796.js.map",
+    "main.e6c13ad2.css.map": "/dapps-intern-test/static/css/main.e6c13ad2.css.map",
+    "main.39598992.js.map": "/dapps-intern-test/static/js/main.39598992.js.map",
     "787.71c1b70a.chunk.js.map": "/dapps-intern-test/static/js/787.71c1b70a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.db02d796.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.39598992.js"
   ]
 }
